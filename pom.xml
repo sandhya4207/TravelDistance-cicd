@@ -55,6 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>distancefinder_cicd</finalName>
 	</build>
 
 </project>
